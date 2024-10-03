@@ -1,0 +1,12 @@
+{
+  "name": "f2024_comp3104",
+  "version": "1.0.0",
+  "description": "COMP 3104 Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
